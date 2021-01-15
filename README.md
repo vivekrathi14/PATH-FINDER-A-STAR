@@ -3,13 +3,8 @@
 **Project Name** - Path Planning in 2D Maze
 
 **Visualization** -
-```
-🚦    ⛰️   0    0    0    0
-🚗   ⛰️   0    0    0    0
-🚗   ⛰️   0    0    0    0
-🚗   ⛰️   0    🚗   🚗   🚗
-🚗   🚗   🚗   🚗   ⛰️   🏁
-```
+![image](https://user-images.githubusercontent.com/25856691/104688712-3c034b80-56cf-11eb-8cfd-897dce872407.png)
+
 
 **Description** -
 1. Executed Heuristic based BFS (Breadth First Search) A* algorithm.

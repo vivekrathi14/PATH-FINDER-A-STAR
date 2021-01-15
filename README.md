@@ -3,7 +3,8 @@
 **Project Name** - Path Planning in 2D Maze
 
 **Visualization** -
-![image](https://user-images.githubusercontent.com/25856691/104688712-3c034b80-56cf-11eb-8cfd-897dce872407.png)
+<img src="https://user-images.githubusercontent.com/25856691/104688712-3c034b80-56cf-11eb-8cfd-897dce872407.png" width="500" height="400"/>
+
 
 
 **Description** -
